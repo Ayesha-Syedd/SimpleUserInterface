@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    nav-right: auto;
+    box-shadow: 0 5px 10px #260f5c;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium';
+}
+.logo{
+    height: 48px;
+    padding: 2px 10px;
+    
+}
+
+.icon-bar 
+{
+    background: cadetblue;
+}
+li a
+{    
+    color: darkcyan;
+}
+body{
+    background-color: darkslategray;
+}
